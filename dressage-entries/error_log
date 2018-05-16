@@ -1,0 +1,137 @@
+[13-Apr-2017 16:31:14 America/Chicago] PHP Fatal error:  Class 'mysli' not found in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 8
+[13-Apr-2017 16:32:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'empire_dressagescores' (0) in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 8
+[14-Apr-2017 10:49:30 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 47
+[14-Apr-2017 11:02:17 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 57
+[14-Apr-2017 11:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 57
+[14-Apr-2017 11:04:48 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 57
+[14-Apr-2017 11:04:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 57
+[14-Apr-2017 11:04:54 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 57
+[14-Apr-2017 11:13:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/empire/public_html/dressageentriesonline.com/entry-list.php on line 81
+[19-Apr-2017 10:17:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/empire/public_html/dressageentriesonline.com/new-entry.php on line 50
+[20-Apr-2017 08:00:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 76
+[20-Apr-2017 08:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 55
+[20-Apr-2017 08:03:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 55
+[20-Apr-2017 08:03:41 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 55
+[20-Apr-2017 08:03:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 55
+[20-Apr-2017 16:05:02 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[20-Apr-2017 16:05:47 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[20-Apr-2017 16:10:05 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[20-Apr-2017 16:13:02 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/close.php on line 3
+[20-Apr-2017 16:14:10 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/empire/public_html/dressageentriesonline.com/close.php on line 3
+[20-Apr-2017 16:14:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[20-Apr-2017 16:14:34 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[20-Apr-2017 16:17:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[20-Apr-2017 16:17:21 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[20-Apr-2017 16:17:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[20-Apr-2017 16:17:30 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 15
+[24-Apr-2017 14:01:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'Scratch' (T_STRING) in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 16
+[24-Apr-2017 14:02:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$get_entries_res' (T_VARIABLE) in /home4/empire/public_html/dressageentriesonline.com/gatherentries.php on line 17
+[25-Apr-2017 18:24:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/empire/public_html/dressageentriesonline.com/addentry.php on line 17
+[25-Apr-2017 19:19:49 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 18
+[25-Apr-2017 19:19:49 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 18
+[25-Apr-2017 19:22:24 America/Chicago] PHP Warning:  Illegal string offset 'testID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 17
+[25-Apr-2017 19:22:24 America/Chicago] PHP Warning:  Illegal string offset 'testID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 17
+[25-Apr-2017 19:54:48 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 19:54:48 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 20:42:59 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 20:42:59 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 20:43:39 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 20:43:39 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 19
+[25-Apr-2017 20:44:13 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 21
+[25-Apr-2017 20:44:13 America/Chicago] PHP Warning:  Illegal string offset 'TestID' in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 21
+[25-Apr-2017 20:47:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 21
+[25-Apr-2017 21:28:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/empire/public_html/dressageentriesonline.com/addclasses.php:12) in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 22
+[25-Apr-2017 21:54:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 62
+[25-Apr-2017 21:54:51 America/Chicago] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home4/empire/public_html/dressageentriesonline.com/showentries.php on line 62
+[27-Apr-2017 12:31:40 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home4/empire/public_html/dressageentriesonline.com/showprintentry.php on line 80
+[27-Apr-2017 14:15:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/empire/public_html/dressageentriesonline.com/showprintentry.php on line 154
+[27-Apr-2017 14:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/empire/public_html/dressageentriesonline.com/showprintentry.php on line 154
+[27-Apr-2017 14:24:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/showprintentry.php on line 361
+[04-May-2017 15:28:55 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/empire/public_html/dressageentriesonline.com/showtest.php on line 101
+[04-May-2017 15:29:37 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/empire/public_html/dressageentriesonline.com/showtest.php on line 101
+[05-May-2017 08:40:11 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home4/empire/public_html/dressageentriesonline.com/gatherprintentries.php on line 16
+[05-May-2017 16:47:54 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, object given in /home4/empire/public_html/dressageentriesonline.com/addscores.php on line 24
+[05-May-2017 17:03:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/empire/public_html/dressageentriesonline.com/addscores.php:26) in /home4/empire/public_html/dressageentriesonline.com/addscores.php on line 36
+[05-May-2017 17:03:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/empire/public_html/dressageentriesonline.com/addscores.php:26) in /home4/empire/public_html/dressageentriesonline.com/addscores.php on line 36
+[05-May-2017 17:04:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/empire/public_html/dressageentriesonline.com/addscores.php:26) in /home4/empire/public_html/dressageentriesonline.com/addscores.php on line 36
+[05-May-2017 17:38:59 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/addscores.php on line 26
+[05-May-2017 21:52:24 America/Chicago] PHP Warning:  include_once(fourth_results.php): failed to open stream: No such file or directory in /home4/empire/public_html/dressageentriesonline.com/results.php on line 47
+[05-May-2017 21:52:24 America/Chicago] PHP Warning:  include_once(): Failed opening 'fourth_results.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/empire/public_html/dressageentriesonline.com/results.php on line 47
+[05-May-2017 21:52:24 America/Chicago] PHP Warning:  include_once(third_results.php): failed to open stream: No such file or directory in /home4/empire/public_html/dressageentriesonline.com/results.php on line 49
+[05-May-2017 21:52:24 America/Chicago] PHP Warning:  include_once(): Failed opening 'third_results.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/empire/public_html/dressageentriesonline.com/results.php on line 49
+[05-May-2017 21:55:23 America/Chicago] PHP Warning:  Unterminated comment starting line 28 in /home4/empire/public_html/dressageentriesonline.com/fourth-results.php on line 28
+[05-May-2017 22:10:02 America/Chicago] PHP Warning:  Unterminated comment starting line 78 in /home4/empire/public_html/dressageentriesonline.com/fourth-results.php on line 78
+[06-May-2017 08:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/fourth-results.php on line 611
+[06-May-2017 08:49:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/third-results.php on line 624
+[06-May-2017 08:49:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/second-results.php on line 621
+[06-May-2017 08:50:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/first-results.php on line 622
+[06-May-2017 08:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/training-results.php on line 618
+[06-May-2017 08:51:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/empire/public_html/dressageentriesonline.com/bneventing-results.php on line 299
+[07-May-2017 10:59:13 America/Chicago] PHP Warning:  include_once(may-results): failed to open stream: No such file or directory in /home4/empire/public_html/dressageentriesonline.com/results.php on line 66
+[07-May-2017 10:59:13 America/Chicago] PHP Warning:  include_once(): Failed opening 'may-results' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/empire/public_html/dressageentriesonline.com/results.php on line 66
+[07-May-2017 11:21:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 603
+[09-May-2017 19:35:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 218
+[09-May-2017 19:36:17 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 202
+[09-May-2017 20:05:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 218
+[09-May-2017 20:06:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 218
+[09-May-2017 20:06:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/empire/public_html/dressageentriesonline.com/may-results.php on line 218
+[15-May-2017 14:58:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/empire/public_html/dressageentriesonline.com/scoredtest.php on line 22
+[15-May-2017 14:58:06 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/empire/public_html/dressageentriesonline.com/showtest.php on line 204
+[15-May-2017 15:01:37 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/empire/public_html/dressageentriesonline.com/showtest.php on line 204
+[15-May-2017 15:02:33 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home4/empire/public_html/dressageentriesonline.com/showtest.php on line 204
+[02-Jun-2017 18:22:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'Scratch' (T_STRING) in /home4/empire/public_html/dressageentriesonline.com/showprintentry.php on line 8
+[03-Jun-2017 08:37:03 America/Chicago] PHP Warning:  include_once(trainingusea-results.php): failed to open stream: No such file or directory in /home4/empire/public_html/dressageentriesonline.com/results.php on line 86
+[03-Jun-2017 08:37:03 America/Chicago] PHP Warning:  include_once(): Failed opening 'trainingusea-results.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/empire/public_html/dressageentriesonline.com/results.php on line 86
+[05-Jun-2017 08:23:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/empire/public_html/dressageentriesonline.com/june-results.php on line 4817
+[05-Jun-2017 08:24:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/empire/public_html/dressageentriesonline.com/june-results.php on line 5117
+[05-Jun-2017 08:25:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/empire/public_html/dressageentriesonline.com/june-results.php on line 5416
+[21-Feb-2018 21:10:31 America/Chicago] PHP Parse error:  syntax error, unexpected '|' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 11
+[21-Feb-2018 21:10:44 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, object given in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 11
+[21-Feb-2018 21:10:47 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, object given in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 11
+[21-Feb-2018 21:24:36 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:25:41 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:25:52 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:26:05 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:31:18 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:50:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 21:54:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 15
+[21-Feb-2018 21:57:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 15
+[21-Feb-2018 22:06:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 18
+[21-Feb-2018 22:07:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 18
+[21-Feb-2018 22:07:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 18
+[21-Feb-2018 22:08:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 13
+[21-Feb-2018 22:08:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 18
+[21-Feb-2018 22:09:25 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:09:25 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:09:25 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:09:25 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:10:20 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:10:20 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:10:20 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:10:20 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:44 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:44 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:44 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:44 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:47 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:47 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:47 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:11:47 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 14
+[21-Feb-2018 22:12:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 19
+[21-Feb-2018 22:21:22 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 19
+[21-Feb-2018 22:41:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 10
+[22-Feb-2018 11:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected '' ORDER BY MarkOrder'' (T_CONSTANT_ENCAPSED_STRING) in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 25
+[22-Feb-2018 11:45:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 11
+[22-Feb-2018 11:52:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/empire/public_html/dressageentriesonline.com/json-test.php on line 11
+[07-Mar-2018 09:48:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[07-Mar-2018 09:48:46 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[07-Mar-2018 10:02:15 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home4/empire/public_html/dressageentriesonline.com/dso-hook.php on line 6
+[10-Mar-2018 09:11:33 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home4/empire/public_html/dressageentriesonline.com/results.php on line 97
+[02-May-2018 16:10:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 10
+[02-May-2018 16:10:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/empire/public_html/dressageentriesonline.com/addclasses.php:10) in /home4/empire/public_html/dressageentriesonline.com/addclasses.php on line 22
+[05-May-2018 09:30:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/bneventing-results.php on line 8
+[05-May-2018 09:30:08 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/bneventing-results.php on line 8
+[05-May-2018 09:37:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/March10-results.php on line 8
+[05-May-2018 09:37:02 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/March10-results.php on line 8
+[05-May-2018 09:42:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/March10-results.php on line 8
+[05-May-2018 09:42:36 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/empire/public_html/dressageentriesonline.com/March10-results.php on line 8
